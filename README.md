@@ -8,4 +8,4 @@ Topics include
 * Eulerian Paths
 * Minimal Spanning Trees
 * Shortest Paths (Dijkstra, A*, Floyd-Warshall)
-* Flood Fill
+* Graph Theory (Flood Fill)
