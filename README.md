@@ -7,5 +7,5 @@ Topics include
 * Dynamic Programming
 * Eulerian Paths
 * Minimal Spanning Trees
-* Shortest Paths (Dijkstra, A*, Floyd-Warshall)
+* Shortest Paths (Dijkstra, Floyd-Warshall)
 * Graph Theory (Flood Fill)
